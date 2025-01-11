@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there👋 I'm Bruno
 
-<!--
-**brunoviews/brunoviews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://github.com/user-attachments/assets/95c99164-49e8-4980-8ba8-073666ff2d16)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my repo. Here you'll see my latests projects and projects that I'm working on.
+
+Working on 🪫🧑‍💻:
+
+-Daroma Innovation SL: [https://daroma.vercel.app/ ](https://github.com/brunoviews/daroma) Developing the website for Daroma.
+-Calcul AI
+
+-Digitaly: [https://github.com/brunoviews/calculai ](https://calculai.vercel.app/) Developing Digitaly website.
+
+
+My own projects with education purpose 📚🎒🏫:
+
+-Portfolio: https://react-tailwind-portfolio-khaki.vercel.app/ Coded my own portfolio based on a public Figma Design.
+
+-To Do App: https://taskmaster-livid.vercel.app/ A small to do app with some cool features like complete and delete functions.
+
+-Ecommer Template: https://basic-ecommerce-eight.vercel.app/ a Basic ecommerce template with cart function.
+
