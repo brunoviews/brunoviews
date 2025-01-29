@@ -8,7 +8,7 @@ Welcome to my repo. Here you'll see my latests projects and projects that I'm wo
 Working on 🪫🧑‍💻:
 
 -Daroma Innovation SL: [https://daroma.vercel.app/ ](https://github.com/brunoviews/daroma) Developing the website for Daroma.
--Calcul AI
+
 
 -Digitaly: [https://github.com/brunoviews/calculai ](https://calculai.vercel.app/) Developing Digitaly website.
 
