@@ -11,6 +11,7 @@ Here you'll find my latest projects and those I'm currently working on. I enjoy 
 
 ## 🛠️ Tech Stack
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -20,11 +21,11 @@ Here you'll find my latest projects and those I'm currently working on. I enjoy 
 ## 💼 Experience
 ### 🚀 Worked on:
 - **Daroma Innovation SL**  
-  🏢 <a target:__blank>[Website](https://daroma.vercel.app/)</a>  | 🔗 [GitHub](https://github.com/brunoviews/daroma)  
+  🏢 <a target:_blank>[Website](https://daroma.vercel.app/)</a>  | 🔗 [GitHub](https://github.com/brunoviews/daroma)  
   _Developing the website for Daroma._
 
 - **Digitaly**  
-  🔗 [GitHub](https://github.com/brunoviews/calculai) | 🌐 [Live App](https://calculai.vercel.app/)  
+  🔗 <a target:_blank>[GitHub](https://github.com/brunoviews/calculai)</a>| 🌐 [Live App](https://calculai.vercel.app/)  
   _Developing Digitaly's website._
 
 ---
