@@ -20,7 +20,7 @@ Here you'll find my latest projects and those I'm currently working on. I enjoy 
 ## 💼 Experience
 ### 🚀 Worked on:
 - **Daroma Innovation SL**  
-  🏢 [Website](https://daroma.vercel.app/) | 🔗 [GitHub](https://github.com/brunoviews/daroma)  
+  🏢 <a target:__blank>[Website](https://daroma.vercel.app/)</a>  | 🔗 [GitHub](https://github.com/brunoviews/daroma)  
   _Developing the website for Daroma._
 
 - **Digitaly**  
