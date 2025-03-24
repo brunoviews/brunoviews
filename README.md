@@ -1,23 +1,55 @@
-## Hi there👋 I'm Bruno
+<h1 align="center">Hi there 👋 I'm Bruno</h1>
 
-![image](https://github.com/user-attachments/assets/95c99164-49e8-4980-8ba8-073666ff2d16)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/95c99164-49e8-4980-8ba8-073666ff2d16" width="250" alt="Bruno's Avatar">
+</p>
 
+### 🚀 Welcome to my GitHub!
+Here you'll find my latest projects and those I'm currently working on. I enjoy building web applications, especially using **React, Node.js, Express, and MongoDB**.
 
-Welcome to my repo. Here you'll see my latests projects and projects that I'm working on.
+---
 
-Working on 🪫🧑‍💻:
+## 🛠️ Tech Stack
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
--Daroma Innovation SL: [https://daroma.vercel.app/ ](https://github.com/brunoviews/daroma) Developing the website for Daroma.
+---
 
+## 💼 Experience
+### 🚀 Worked on:
+- **Daroma Innovation SL**  
+  🏢 [Website](https://daroma.vercel.app/) | 🔗 [GitHub](https://github.com/brunoviews/daroma)  
+  _Developing the website for Daroma._
 
--Digitaly: [https://github.com/brunoviews/calculai ](https://calculai.vercel.app/) Developing Digitaly website.
+- **Digitaly**  
+  🔗 [GitHub](https://github.com/brunoviews/calculai) | 🌐 [Live App](https://calculai.vercel.app/)  
+  _Developing Digitaly's website._
 
+---
 
-My own projects with education purpose 📚🎒🏫:
+## 🎓 My Own Projects (for learning)  
+### 🌍 Fullstack Projects
+- **Airbnb Clone** → [Live](https://airbbnb-clone.vercel.app/)  
+  _A small fullstack version of Airbnb using React, MongoDB, Express, and Node.js._
 
--Portfolio: https://react-tailwind-portfolio-khaki.vercel.app/ Coded my own portfolio based on a public Figma Design.
+- **Portfolio** → [Live](https://react-tailwind-portfolio-khaki.vercel.app/)  
+  _Coded my own portfolio based on a public Figma design._
 
--To Do App: https://taskmaster-livid.vercel.app/ A small to do app with some cool features like complete and delete functions.
+### ⚡ Frontend Projects
+- **To-Do App** → [Live](https://taskmaster-livid.vercel.app/)  
+  _A small to-do app with features like completing and deleting tasks._
 
--Ecommer Template: https://basic-ecommerce-eight.vercel.app/ a Basic ecommerce template with cart function.
+- **Ecommerce Template** → [Live](https://basic-ecommerce-eight.vercel.app/)  
+  _A basic ecommerce template with cart functionality._
+
+---
+
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuperfil/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuusuario)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white)](https://react-tailwind-portfolio-khaki.vercel.app/)
+
+---
 
