@@ -13,25 +13,12 @@ Here you'll find my latest projects and what I'm currently working on. I enjoy b
 
 ## 🛠️ Tech Stack
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-## 💼 Experience
-
-### 🚀 Worked on:
-- **Daroma Innovation SL**  
-  🏢 [Website](https://daroma.vercel.app/) | 🔗 [GitHub](https://github.com/brunoviews/daroma)  
-  _Developed the website for Daroma._
-
-- **Digitaly**  
-  🔗 [GitHub](https://github.com/brunoviews/calculai) | 🌐 [Live App](https://calculai.vercel.app/)  
-  _Developed Digitaly's website._
-
----
 
 ## 🎓 My Own Projects (for learning)
 
