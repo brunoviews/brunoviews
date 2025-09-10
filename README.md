@@ -26,7 +26,7 @@ Here you'll find my latest projects and what I'm currently working on. I enjoy b
 
 
 - **Marvel App** → [Live](https://marvel-gallery-app.vercel.app/)  
-  _An app to explore Marvel characters and comics using the Marvel API._
+  _An app to explore Marvel characters and comics using my own API._
 
 - **Extension Manager** → [Live](https://extension-manager-drab.vercel.app/)  
   _A tool to manage and organize browser extensions
