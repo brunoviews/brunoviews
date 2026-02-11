@@ -45,10 +45,7 @@ Here you'll find my latest projects and what I'm currently working on. I enjoy b
 - **To-Do App** → [Live](https://taskmaster-livid.vercel.app/)  
   _A simple to-do app with features like completing and deleting tasks._
 
-- **Ecommerce Template** → [Live](https://basic-ecommerce-eight.vercel.app/)  
-  _A basic ecommerce template with cart functionality._
 
-._
 
 ---
 
