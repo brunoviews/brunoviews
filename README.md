@@ -32,10 +32,7 @@ Here you'll find my latest projects and what I'm currently working on. I enjoy b
 
 - **Extension Manager** → [Live](https://extension-manager-drab.vercel.app/)  
   _A tool to manage and organize browser extensions
-  
-- **Airbnb Clone** → [Live](https://airbbnb-clone.vercel.app/)  
-  _A small fullstack version of Airbnb using React, MongoDB, Express, and Node.js._
-- **Harry Potter Character List** → [Live](https://airbbnb-clone.vercel.app/)
+
 - 
   _A web app to browse and search Harry Potter characters._
 - **Portfolio** → [Live](https://react-tailwind-portfolio-khaki.vercel.app/)  
@@ -49,8 +46,6 @@ Here you'll find my latest projects and what I'm currently working on. I enjoy b
 
 ---
 
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ftthbruno)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white)](https://www.bdasilva.es/)
+
 
 ---
