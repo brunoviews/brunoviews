@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 Welcome to my GitHub!
-Here you'll find my latest projects and what I'm currently working on. I enjoy building web applications, especially using **React, Node.js, Express, and MongoDB**.
+Here you'll find my latest projects and what I'm currently working on. I enjoy building web applications, especially using **React, React Native, Node.js and Nestjs**.
 
 ---
 
