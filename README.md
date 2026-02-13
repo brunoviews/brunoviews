@@ -38,14 +38,4 @@ Here you'll find my latest projects and what I'm currently working on. I enjoy b
 - **Portfolio** → [Live](https://react-tailwind-portfolio-khaki.vercel.app/)  
   _My personal portfolio based on a public Figma design._
 
-### ⚡ Frontend Projects
-- **To-Do App** → [Live](https://taskmaster-livid.vercel.app/)  
-  _A simple to-do app with features like completing and deleting tasks._
 
-
-
----
-
-
-
----
