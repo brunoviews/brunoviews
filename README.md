@@ -36,6 +36,6 @@ Here you'll find my latest projects and what I'm currently working on. I enjoy b
 - 
   _A web app to browse and search Harry Potter characters._
 - **Portfolio** → [Live](https://react-tailwind-portfolio-khaki.vercel.app/)  
-  _My personal portfolio based on a public Figma design._
+  _My personal portfolio._
 
 
