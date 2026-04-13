@@ -35,7 +35,7 @@ Here you'll find my latest projects and what I'm currently working on. I enjoy b
 - Consistent UX across web and mobile
 
 ## Contact
-- Portfolio: bdasilva.es
+- Web: [bdasilva.es](https://bdasilva.es/)
 - Email: brunogustavo68@email.com
 
 
