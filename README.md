@@ -1,16 +1,21 @@
-<h1 align="center">Bruno — Frontend Developer</h1>
-<p align="center">React · React Native</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/95c99164-49e8-4980-8ba8-073666ff2d16" width="220" alt="Bruno's Avatar">
-</p>
+# Bruno — Frontend Developer
 
-<hr/>
+React · React Native
+
+<img src="https://github.com/user-attachments/assets/95c99164-49e8-4980-8ba8-073666ff2d16" width="220" alt="Bruno's Avatar">
+
+</div>
+
+---
 
 ## Frontend focus
-Here you'll find my latest projects and what I'm currently working on. I enjoy building web applications, especially using React, React Native and Nestjs.
 
-## UI stack
+Aquí encontrarás mis proyectos más recientes y en lo que estoy trabajando ahora mismo. Disfruto construyendo aplicaciones web y mobile, especialmente con **React**, **React Native** y **NestJS**.
+
+## Stack
+
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -19,23 +24,27 @@ Here you'll find my latest projects and what I'm currently working on. I enjoy b
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=white" />
 </p>
 
-## Selected frontend projects
-- **Marvel App** — [Live](https://marvel-gallery-app.vercel.app/)  
-  App to explore Marvel characters and comics using a custom API.
+## Selected projects
 
-- **Extension Manager** — [Live](https://extension-manager-drab.vercel.app/)  
-  Tool to manage and organize browser extensions.
+### Marvel App
+Aplicación para explorar personajes y cómics de Marvel consumiendo una API personalizada.  
+**Live:** https://marvel-gallery-app.vercel.app/
 
-- **Portfolio** — [Live](https://react-tailwind-portfolio-khaki.vercel.app/)  
-  Personal portfolio project.
+### Extension Manager
+Herramienta para gestionar y organizar extensiones del navegador.  
+**Live:** https://extension-manager-drab.vercel.app/
+
+### Portfolio
+Proyecto de portfolio personal.  
+**Live:** https://react-tailwind-portfolio-khaki.vercel.app/
 
 ## What I care about
-- Component architecture and design systems
-- Performance, accessibility, and responsive UI
-- Consistent UX across web and mobile
+
+- Arquitectura de componentes y design systems
+- Performance, accesibilidad y responsive UI
+- Experiencias consistentes entre web y mobile
 
 ## Contact
-- Web: [bdasilva.es](https://bdasilva.es/)
+
+- Web: https://bdasilva.es/
 - Email: brunogustavo68@email.com
-
-
