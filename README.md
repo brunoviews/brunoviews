@@ -4,8 +4,13 @@
 
 Frontend Developer specializing in React & React Native
 
+
 <img src="https://github.com/user-attachments/assets/95c99164-49e8-4980-8ba8-073666ff2d16" width="220" alt="Bruno's Avatar">
 
+</div>
+<div align="center">
+
+[![React Junior Certificate](https://img.shields.io/badge/React_Certified-Junior-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=1A365D)](https://certificates.dev/react/certificates/a2190d10-a4db-4f4e-944f-aff2e8ad3834)
 </div>
 
 ---
