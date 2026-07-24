@@ -17,7 +17,7 @@ Desarrollador Frontend especializado en React y React Native
 
 ## About
 
-Aquí encontrarás mis proyectos más recientes y en lo que estoy trabajando ahora mismo. Construyo aplicaciones web y mobile, especialmente con **React**, **React Native** y **NestJS**.
+Here you'll find my latest projects and what I'm working on right now. I build web and mobile applications, especially with **React**, **React Native** and **NestJS**.
 
 ## Stats
 
@@ -27,7 +27,7 @@ Aquí encontrarás mis proyectos más recientes y en lo que estoy trabajando aho
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=brunoviews&locale=es&exclude_days=Sun&theme=react&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=brunoviews&locale=es&exclude_days=Sun" alt="GitHub streak" />
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunoviews&theme=react-dark&hide_border=true&area=true" alt="Activity graph" />
@@ -49,14 +49,14 @@ Aquí encontrarás mis proyectos más recientes y en lo que estoy trabajando aho
   <tr>
     <td width="50%" valign="top">
       <h3>Binged</h3>
-      <p>Mi app Android, publicada en Google Play.</p>
+      <p>My Android app, published on Google Play.</p>
       <a href="https://play.google.com/store/apps/details?id=com.brunoviews.binged">
         <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>Marvel App</h3>
-      <p>Explorador de personajes y cómics de Marvel con una API personalizada.</p>
+      <p>Explore Marvel characters and comics through a custom API.</p>
       <a href="https://marvel-gallery-app.vercel.app/">
         <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" />
       </a>
@@ -65,14 +65,14 @@ Aquí encontrarás mis proyectos más recientes y en lo que estoy trabajando aho
   <tr>
     <td width="50%" valign="top">
       <h3>Extension Manager</h3>
-      <p>Herramienta para gestionar y organizar extensiones del navegador.</p>
+      <p>A tool to manage and organize your browser extensions.</p>
       <a href="https://extension-manager-drab.vercel.app/">
         <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" />
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>Portfolio</h3>
-      <p>Mi portfolio personal, en React + Tailwind.</p>
+      <p>My personal portfolio, built with React + Tailwind.</p>
       <a href="https://react-tailwind-portfolio-khaki.vercel.app/">
         <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" />
       </a>
@@ -82,9 +82,9 @@ Aquí encontrarás mis proyectos más recientes y en lo que estoy trabajando aho
 
 ## Focus areas
 
-- Arquitectura de componentes y design systems
-- Performance, accesibilidad y responsive UI
-- Experiencias consistentes entre web y mobile
+- Component architecture and design systems
+- Performance, accessibility and responsive UI
+- Consistent experiences across web and mobile
 
 ## Contact
 
