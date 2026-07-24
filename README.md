@@ -2,7 +2,7 @@
 
 # Bruno
 
-Desarrollador Frontend especializado en React y React Native
+Frontend Developer specializing in React & React Native
 
 
 <img src="https://github.com/user-attachments/assets/95c99164-49e8-4980-8ba8-073666ff2d16" width="220" alt="Bruno's Avatar">
