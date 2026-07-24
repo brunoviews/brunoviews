@@ -27,7 +27,7 @@ Here you'll find my latest projects and what I'm working on right now. I build w
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=brunoviews&locale=en&exclude_days=Sun" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=brunoviews&theme=dark&exclude_days=Sun" alt="GitHub streak" />
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunoviews&theme=react-dark&hide_border=true&area=true" alt="Activity graph" />
