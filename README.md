@@ -27,7 +27,7 @@ Aquí encontrarás mis proyectos más recientes y en lo que estoy trabajando aho
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=brunoviews&theme=react&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=brunoviews&locale=es&exclude_days=Sun&theme=react&hide_border=true" alt="GitHub streak" />
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunoviews&theme=react-dark&hide_border=true&area=true" alt="Activity graph" />
@@ -45,21 +45,40 @@ Aquí encontrarás mis proyectos más recientes y en lo que estoy trabajando aho
 
 ## Projects
 
-### Binged
-Mi app Android, publicada en Google Play.
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.brunoviews.binged)
-
-### Marvel App
-Aplicación para explorar personajes y cómics de Marvel consumiendo una API personalizada.  
-→ [marvel-gallery-app.vercel.app](https://marvel-gallery-app.vercel.app/)
-
-### Extension Manager
-Herramienta para gestionar y organizar extensiones del navegador.  
-→ [extension-manager-drab.vercel.app](https://extension-manager-drab.vercel.app/)
-
-### Portfolio
-Proyecto de portfolio personal.  
-→ [react-tailwind-portfolio-khaki.vercel.app](https://react-tailwind-portfolio-khaki.vercel.app/)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Binged</h3>
+      <p>Mi app Android, publicada en Google Play.</p>
+      <a href="https://play.google.com/store/apps/details?id=com.brunoviews.binged">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Marvel App</h3>
+      <p>Explorador de personajes y cómics de Marvel con una API personalizada.</p>
+      <a href="https://marvel-gallery-app.vercel.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Extension Manager</h3>
+      <p>Herramienta para gestionar y organizar extensiones del navegador.</p>
+      <a href="https://extension-manager-drab.vercel.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Portfolio</h3>
+      <p>Mi portfolio personal, en React + Tailwind.</p>
+      <a href="https://react-tailwind-portfolio-khaki.vercel.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Focus areas
 
