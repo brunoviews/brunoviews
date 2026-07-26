@@ -21,12 +21,22 @@ Here you'll find my latest projects and what I'm working on right now. I build w
 
 ## Stats
 
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=brunoviews&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" alt="GitHub stats" />
+<div align="center">
+ 
+
+  
+
+  
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=brunoviews&theme=dark" alt="GitHub Streak" /></a>  
+
+
   <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=brunoviews&layout=compact&theme=react&hide_border=true" alt="Top languages" />
-</p>
+
+
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunoviews&theme=react-dark&hide_border=true&area=true" alt="Activity graph" />
+
 
 ## Stack
 
