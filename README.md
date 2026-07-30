@@ -17,7 +17,7 @@ Frontend Developer specializing in React & React Native
 
 ## About
 
-Here you'll find my latest projects and what I'm working on right now. I build web and mobile applications, especially with **React**, **React Native** and **NestJS**.
+Here you'll find my latest projects and what I'm working on right now. I build web and mobile applications, especially with **React**, **React Native** and **Supabase**.
 
 ## Stats
 
