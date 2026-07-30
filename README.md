@@ -27,8 +27,7 @@ Here you'll find my latest projects and what I'm working on right now. I build w
   
 
   
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=brunoviews&theme=dark" alt="GitHub Streak" /></a>  
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=brunoviews&theme=dark)](https://git.io/streak-stats)
 
   <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=brunoviews&layout=compact&theme=react&hide_border=true" alt="Top languages" />
 
